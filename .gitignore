@@ -1,14 +1,11 @@
-# Original PDF downloads and R session files
-data/raw/
+data/raw/*
+!data/raw/.gitkeep
+outputs/
 .Rhistory
 .RData
 .Ruserdata
 .Rproj.user/
-
-# Local credentials and configuration
+.Renviron
 .env
-.env.*
-
-# Operating-system files
 .DS_Store
 Thumbs.db
