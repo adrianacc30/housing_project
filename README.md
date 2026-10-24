@@ -10,6 +10,6 @@ This exploratory R project combines university-level winter-semester entrants, d
 
 Install dependencies with `Rscript install_packages.R`, then run `Rscript rent_student_entrants.R` from this folder. Input requirements are in [DATA.md](DATA.md).
 
-**Status:** the source datasets and existing scatterplot were unavailable during preparation. The script has passed syntax checks but has not been executed. University locations, historical district boundaries, and student-count definitions still need verification. No empirical conclusion is reported here.
+**Status:** University locations, historical district boundaries, and student-count definitions still need verification. 
 
 The outcome measures **new entrants**, not total enrolled students or residents attending university. Any resulting association is descriptive.
