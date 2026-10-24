@@ -1,0 +1,14 @@
+# Original PDF downloads and R session files
+data/raw/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local credentials and configuration
+.env
+.env.*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
